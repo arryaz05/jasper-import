@@ -1,4 +1,4 @@
-# jasper-release-import
+# jasper-import
 
 Simple Python Script to deliver an Import package to a remote Jasper Report Server instance.
 
