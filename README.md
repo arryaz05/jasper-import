@@ -12,5 +12,5 @@ The script accepts the following arguments:
 ### Example:
 
 
-> python import.<span></span>py **-user** jasperadmin **-host** http://<span> **-</span>localhost:8080/jasperserver/ **-file** import_file.zip
+> python import.<span></span>py **-user** jasperadmin -**host** http://<span> **-</span>localhost:8080/jasperserver/ **-file** import_file.zip
 
